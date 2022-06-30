@@ -3,12 +3,12 @@
 	<Transactions>
     <Transaction>2022/06/30 12:24:15.000.866,=D:\Domisoft\Delphi 11.0 Academic\Unit2.pas</Transaction>
     <Transaction>2022/06/30 12:25:22.000.233,=D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\main.pas</Transaction>
-    <Transaction>2022/06/30 12:25:45.000.147,D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DimiCIR.dproj=D:\Domisoft\Delphi 11.0 Academic\Project1.dproj</Transaction>
-    <Transaction>2022/06/30 12:26:05.000.230,D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiCIR.dproj=D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DimiCIR.dproj</Transaction>
+    <Transaction>2022/06/30 12:25:45.000.147,D:\Domisoft\Delphi 11.0 Academic\Project1.dproj=D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DimiCIR.dproj</Transaction>
+    <Transaction>2022/06/30 12:26:05.000.230,D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DimiCIR.dproj=D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiCIR.dproj</Transaction>
     <Transaction>2022/06/30 12:26:16.000.578,D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiCIR.dproj=D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiCIR.dproj</Transaction>
-    <Transaction>2022/06/30 12:53:06.000.446,D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiOUCite.dproj=D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiCIR.dproj</Transaction>
-    <Transaction>2022/06/30 12:53:06.000.514,D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiCIR.dproj=D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiOUCite.dproj</Transaction>
-    <Transaction>2022/06/30 13:39:36.000.389,D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiCIR.dproj=D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiOUCite.dproj</Transaction>
+    <Transaction>2022/06/30 12:53:06.000.446,D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiCIR.dproj=D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiOUCite.dproj</Transaction>
+    <Transaction>2022/06/30 12:53:06.000.514,D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiOUCite.dproj=D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiCIR.dproj</Transaction>
+    <Transaction>2022/06/30 13:39:36.000.389,D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiOUCite.dproj=D:\Domisoft\Delphi 11.0 Academic\2022\cite-it-right-new\DomiCIR.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile Android64="R5CN810A38L" Android="R5CN810A38L"/>
